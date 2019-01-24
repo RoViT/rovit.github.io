@@ -1,0 +1,72 @@
+
+# Basic
+name:               "RoViT"
+title:              "The Robot Vision Team"
+description:        "A multidisciplinary research team led by Professor Paolo Remagnino with expertise in human and computer vision, automatic image and video interpretation, visual attention and cognition, ambient assisted living (AAL) and intelligent systems."
+
+
+# URL
+url:                http://rovit.github.io
+baseurl:
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           kramdown
+
+# Highlighter
+highlighter:        rouge
+
+# Navigation
+nav:
+  - name:           "home"
+    href:           "/"
+  - name:           "research"
+    href:           "/research"
+  - name:           "projects"
+    href:           "/projects"
+  - name:           "publications"
+    href:           "/publication"
+  - name:           "team"
+    href:           "/team"
+  - name:           "blog"
+    href:           "/blog"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+
+
+collections:
+  people:
+    output: true
+    permalink: /people/:title/index.html
+
+social:
+  github: https://github.com/
+  twitter: https://twitter.com/
+  #linkedin: https://www.linkedin.com/
+  #dribbble: https://dribbble.com/
+  email: /contact/
+  
