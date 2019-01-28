@@ -14,7 +14,7 @@ access one of our papers, let us know. The copyright notice for these papers is 
 
 <hr>
 
-### 2018
+### 2019
 ![](/images/pub/dlmpd/dlmpd.png){:width="196px" style="float:left;  margin-right: 20px;"}
 _A Comparison of Embedded Deep Learning Methods for Person Detection_<br>
 Chloe Eunhyang Kim, Mahdi Maktab Dar Oghaz, Jiri Fajtl, Vasileios Argyriou, Paolo Remagnino<br>
