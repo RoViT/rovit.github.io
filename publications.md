@@ -48,6 +48,7 @@ Jiri Fajtl, Hajar Sadeghi Sokeh, Vasileios Argyriou, Dorothy Monekosso, Paolo Re
 
 ![](/images/pub/cbr/cbr.jpg){:width="196px" style="float:left;  margin-right: 20px;"}
 _Deep Residual Network with Subclass Discriminant Analysis for Crowd Behavior Recognition_<br>
+Bappaditya Mandal, Jiri Fajtl, Vasileios Argyriou, Dorothy Monekosso, Paolo Remagnino<br>
 [ICIP 2018](https://2018.ieeeicip.org/),
 [[Paper](https://ieeexplore.ieee.org/abstract/document/8451190)],
 [[Slides](/images/pub/cbr/ICIP2018_va.pdf)],
